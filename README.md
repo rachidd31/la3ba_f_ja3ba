@@ -11,3 +11,8 @@
 
 ### Paas
    - [Dokku](https://github.com/dokku/dokku)
+
+## Software benchmarking
+
+### PHP
+   - https://symfony.com/doc/current/profiler.html
