@@ -16,3 +16,23 @@
 
 ### PHP
    - https://symfony.com/doc/current/profiler.html
+
+
+## Vscode extensions
+
+- kilo code
+- cline
+- Roo code
+- Stagewise
+  
+
+## Coding agents
+
+
+## IDEs
+
+- Vscode
+- Windsurf
+- Cursor
+- Trae
+- Zed
