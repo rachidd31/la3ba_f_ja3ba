@@ -3,6 +3,10 @@
 
 ## MCP
 
+### MCP servers
+
+- GitMCP
+
 ### example 1
 
 
@@ -16,6 +20,16 @@
 
 ### PHP
    - https://symfony.com/doc/current/profiler.html
+
+
+## Front/Back makers
+
+- Lovable
+- Bolt
+- v0
+- Qween
+- FireBase
+
 
 
 ## Vscode extensions
