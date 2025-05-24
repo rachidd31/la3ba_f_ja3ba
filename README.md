@@ -10,4 +10,4 @@
 ## Infra
 
 ### Paas
-   - ![Dokku](https://github.com/dokku/dokku)
+   - [Dokku](https://github.com/dokku/dokku)
