@@ -60,6 +60,7 @@
 - Cursor
 - Trae
 - Zed
+- https://github.dev/
 
 ## Open source
 
