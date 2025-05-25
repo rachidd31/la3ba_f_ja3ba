@@ -60,3 +60,12 @@
 - Cursor
 - Trae
 - Zed
+
+## Open source
+
+- BAGEL: The Open-Source Unified Multimodal Model
+- https://github.com/DINGYANB/MTVCrafter
+### medical
+    - medgemma
+    - https://huggingface.co/spaces/google/rad_explain
+  
