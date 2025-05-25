@@ -10,6 +10,11 @@
 ### example 1
 
 
+## khodra fo9 t3am
+
+**Memory Bank**
+- https://github.com/glebkudr/shotgun_code
+
 
 ## Infra
 
