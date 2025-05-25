@@ -4,7 +4,7 @@
 ## MCP
 
 ### MCP servers
-![dd](images/MCP.web)
+![dd](images/MCP.webp)
 
 - GitMCP
 
