@@ -15,6 +15,10 @@
 
 **Memory Bank**
 - https://github.com/glebkudr/shotgun_code
+- https://github.com/eyaltoledano/claude-task-master
+- context7
+- https://github.com/shaneholloman/mcp-knowledge-graph
+- https://mcpmarket.com/categories/developer-tools
 
 
 ## Infra
