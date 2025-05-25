@@ -6,6 +6,10 @@
 ### MCP servers
 ![dd](images/MCP.webp)
 
+
+Context caching
+
+![dd](images/caching.png)
 - GitMCP
 
 ### example 1
